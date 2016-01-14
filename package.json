@@ -14,10 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/slackhq/node-slack-client.git"
-  },
-  "bugs": {
-    "url": "http://github.com/slackhq/node-slack-client/issues"
+    "url": "git://github.com/enigmamarketing/node-slack-client.git"
   },
   "dependencies": {
     "coffee-script": "~1.9.3",
